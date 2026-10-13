@@ -18,7 +18,7 @@ public class PositiveNegativeNumber {
 		}
 		else {
 			
-			System.out.println(num + " is neutral.");
+			System.out.println(num + " is zero.");
 		}
 	}
 

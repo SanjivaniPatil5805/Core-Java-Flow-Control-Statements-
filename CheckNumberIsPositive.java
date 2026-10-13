@@ -6,7 +6,7 @@ public class CheckNumberIsPositive {
 		
 		int num = 30;
 		
-		if(num % 2 == 0) {
+		if(num > 0) {
 			
 			System.out.println(num+" is an positive number");
 			
